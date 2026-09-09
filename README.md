@@ -1,4 +1,4 @@
-# S-maltophilia-Transposon
+# A conserved essential gene set in Stenotrophomonas maltophilia defined by Tn-seq and clinical genomics
 
 ## Sequencing data: 20250820-JHY
 
